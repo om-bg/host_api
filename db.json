@@ -1,0 +1,49 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "nom": "Samir",
+      "prenom": "Arabi",
+      "filiere": "Informatique",
+      "notes": {
+        "Mathématiques": 15.5,
+        "Physique": 14,
+        "Prog Mobile": 13.5,
+        "Recherche Operationnelle": 16,
+        "Systèmes d'exploitation": 12,
+        "Bases de données": 15,
+        "Réseaux": 17.5
+      }
+    },
+    {
+      "id": 2,
+      "nom": "Hamid",
+      "prenom": "Todimt",
+      "filiere": "Physique",
+      "notes": {
+        "Analyse": 14.5,
+        "Statistiques": 11,
+        "Programmation": 19.5,
+        "Géométrie": 10,
+        "Physique": 13.5,
+        "Algèbre": 13,
+        "Optimisation": 14.5
+      }
+    },
+    {
+      "id": 3,
+      "nom": "karim",
+      "prenom": "alaoui",
+      "filiere": "Biologie",
+      "notes": {
+        "Geologie": 15.5,
+        "Statistiques": 13,
+        "Programmation": 16.5,
+        "Géométrie": 15,
+        "Physique": 10,
+        "Algèbre": 12,
+        "Analyse": 18.5
+      }
+    }
+  ]
+}
